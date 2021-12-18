@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning Projects
+This directory includes all Deep Learning Projects
