@@ -1,3 +1,4 @@
 [submodule "Licence-Plate-Detection-PyTorch"]
 	path = Licence-Plate-Detection-PyTorch
 	url = git@github.com:amirmallak/Licence-Plate-Detection-PyTorch.git
+	branch = main
