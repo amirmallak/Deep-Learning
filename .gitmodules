@@ -1,3 +1,6 @@
 [submodule "Licence-Plate-Detection-PyTorch"]
 	path = Licence-Plate-Detection-PyTorch
 	url = git@github.com:amirmallak/Licence-Plate-Detection-PyTorch.git
+[submodule "Style-Transfer-via-Multi-Scale-Feature-CNN"]
+	path = Style-Transfer-via-Multi-Scale-Feature-CNN
+	url = git@github.com:amirmallak/Style-Transfer-via-Multi-Scale-Feature-CNN.git
